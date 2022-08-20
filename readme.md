@@ -1,3 +1,8 @@
+# About
+I followed Mike Bostock's tutorial for working with shapefiles, geojson,
+topojson, and d3. The tutorial used California data, but I also used the same
+process to make some SVG images for Florida as well based on population density.
+
 # Following @mbostock's tutorial
 https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
 
