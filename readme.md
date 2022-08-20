@@ -3,6 +3,8 @@ I followed Mike Bostock's tutorial for working with shapefiles, geojson,
 topojson, and d3. The tutorial used California data, but I also used the same
 process to make some SVG images for Florida as well based on population density.
 
+![Florida Population Density Map](/fl_cb_2014_12_tract_500k/fl_albers_tracts_counties_color_ylgn_final.svg)
+
 # Warning for PNPM
 I used ```pnpm``` as my package manager, but at some points it failed and I
 needed to do some manual configuration and re-installations of global packages
