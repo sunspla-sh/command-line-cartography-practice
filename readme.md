@@ -3,6 +3,12 @@ I followed Mike Bostock's tutorial for working with shapefiles, geojson,
 topojson, and d3. The tutorial used California data, but I also used the same
 process to make some SVG images for Florida as well based on population density.
 
+# Warning for PNPM
+I used ```pnpm``` as my package manager, but at some points it failed and I
+needed to do some manual configuration and re-installations of global packages
+in the local store. You probably should stick to ```npm```, because I did not
+include the fixes I used for ```pnpm``` in this readme/list of commands.
+
 # Following @mbostock's tutorial
 https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
 
