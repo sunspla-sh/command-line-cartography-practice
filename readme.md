@@ -7,6 +7,10 @@ topojson, and d3.
 
 ![Florida Population Density Map](/fl_cb_2014_12_tract_500k/fl_albers_tracts_counties_color_ylgn_final.svg)
 
+Technologies used for this project include the following:
+
+![List of technologies](tech.png "List of technologies")
+
 # Warning for PNPM
 I used ```pnpm``` as my package manager, but at some points it failed and I
 needed to do some manual configuration and re-installations of global packages
