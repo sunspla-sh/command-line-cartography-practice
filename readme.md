@@ -1,8 +1,7 @@
 # About
-Learn to make a population density map of your state. This Github repository contains 
-a condensed set of instructions and commands.
-There's a much larger and more detailed tutorial [(link)](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c) written by @mbostock (Mike Bostock) on Medium, who originally created the process for the state
-of California, which I later adapted for Florida. This tutorial includes basic info for working with shapefiles, geojson,
+Learn to make a population density map of your state. This Github repository contains a condensed set of instructions and commands. I'm not the original creator of this process, I only adapted it for Florida. There's a much larger and more detailed tutorial [(link)](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c) written by @mbostock (Mike Bostock) on Medium, who originally created the process for the state of California, which I later adapted for Florida, so give credit to him and big thanks from me because it would've taken me a lot longer without his writeups.
+
+This tutorial includes basic info for working with shapefiles, geojson,
 topojson, and d3.
 
 ![Florida Population Density Map](/fl_cb_2014_12_tract_500k/fl_albers_tracts_counties_color_ylgn_final.svg)
